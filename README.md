@@ -7,7 +7,7 @@
 **Built for [Gravity AI](https://gravity.fast)** · one of Gravity's own use cases, made real: *competitor tracking, as a watch list.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://kathpalsiya01-coder-competitor-radar-agent-app-z8wa8y.streamlit.app/)
 [![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.3-F55036?style=flat)](https://groq.com)
 [![Status](https://img.shields.io/badge/Status-Verified_%E2%9C%94-brightgreen?style=flat)](#reliability-not-just-a-demo)
 
