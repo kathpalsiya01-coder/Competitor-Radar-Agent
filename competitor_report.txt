@@ -1,0 +1,5 @@
+Competitor Radar Report for MyApp
+Generated: 2026-08-15 17:22:22.469290
+
+[CHANGED - VERIFIED] Notion: The new version of the webpage text does not show any changes in pricing or features, but the phrase 'Business, & Enterprise' is added to the pricing plans introduction. The content and structure of the plans remain the same. No new features or changes in existing features are introduced.
+[OK] Airtable: No change since last check
